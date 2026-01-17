@@ -34,12 +34,16 @@ Un módulo administrativo completo para organizar los recursos del sistema:
 * **Monitoreo Visual:** Integración de cámaras para verificación en vivo.
 * **Alertas:** Configuración de Alarmas y Alarmas Comunitarias para respuesta rápida ante incidentes.
 
+![Mapa de monitoreo en tiempo real](tracker/tracker-monitoring.png)
+
 ### 3. Geocercas y Análisis Espacial
 
 Herramientas avanzadas para el control perimetral.
 
 * **Dibujo Dinámico:** Creación de zonas (polígonos, círculos o rectángulos) directamente sobre el mapa.
 * **Auditoría Histórica:** Consultas para determinar qué vehículos ingresaron o salieron de una geocerca en rangos de tiempo específicos.
+
+![Mapa de monitoreo en tiempo real](tracker/tracker-adminGeocercas.png)
 
 ### 4. Reportes y Recorridos
 
